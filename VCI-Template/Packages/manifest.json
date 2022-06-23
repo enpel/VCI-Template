@@ -38,6 +38,13 @@
     "com.unity.modules.video": "1.0.0",
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
-    "com.unity.modules.xr": "1.0.0"
+    "com.unity.modules.xr": "1.0.0",
+    "com.virtualcast.univci": "https://github.com/virtual-cast/VCI.git?path=/Assets/VCI#v0.33.1",
+    "com.thirdparty.naudio": "https://github.com/virtual-cast/VCI.git?path=/Assets/NAudio#v0.33.1",
+    "com.thirdparty.effekseer": "https://github.com/virtual-cast/VCI.git?path=/Assets/Effekseer#v0.33.1",
+    "com.vrmc.vrmshaders": "https://github.com/vrm-c/UniVRM.git?path=/Assets/VRMShaders#v0.88.0",
+    "com.vrmc.gltf": "https://github.com/vrm-c/UniVRM.git?path=/Assets/UniGLTF#v0.88.0",
+    "com.vrmc.univrm": "https://github.com/vrm-c/UniVRM.git?path=/Assets/VRM#v0.88.0",
+    "com.vrmc.vrm": "https://github.com/vrm-c/UniVRM.git?path=/Assets/VRM10#v0.88.0"
   }
 }
